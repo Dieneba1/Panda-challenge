@@ -1,5 +1,6 @@
 # Panda-challenge 
 Based on the date, we observe that:
+
   1.Male tend to play way more than female, dominating the category with 84%. They also purchase 5times more than the females.
   
   2. Although we have fewer female players, their average purchasing price is higher than that of males.this shows that Females are likely to spend more dollars on a game than males will do.
