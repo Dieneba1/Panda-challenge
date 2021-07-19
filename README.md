@@ -1,5 +1,5 @@
 # Panda-challenge 
-Based on the date, we observe that:
+Based on the data, we observe that:
 
   1.Male tend to play way more than female, dominating the category with 84%. They also purchase 5times more than the females.
   
